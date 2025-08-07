@@ -12,7 +12,7 @@ I’m **Amrit S R**, a passionate 2nd-year Computer Science Engineering student 
 - LeetCode: [https://leetcode.com/profile/]
 - LeetCode Username : [https://leetcode.com/u/ASR2005/]
 - CodeChef: [https://www.codechef.com/users/amritsr2005]  
-- Codeforces: [Your Codeforces URL]  
+- Codeforces: [https://codeforces.com/profile/AMRITSR2005]  
 
 ---
 
