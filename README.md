@@ -27,8 +27,6 @@ CGPA: 9.50 / 10
 
 ## 💻 Skills
 
-## 💻 Skills
-
 - **Languages:**  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>  
