@@ -6,7 +6,7 @@ I’m **Amrit S R**, a passionate 2nd-year Computer Science Engineering student 
 
 ## 📫 Contact Me
 
-- Email: amritsr2005@gmail.com  
+- Email: amritsr2005@gmail.com  , 1si23ci005@sit.ac.in , 1si23ci005@gmail.com , amritsr.1si23ci005@gmail.com
 - Phone: 8861314053  
 - LinkedIn: [https://www.linkedin.com/in/amrit-s-r-17a515309/]  
 - LeetCode: [https://leetcode.com/profile/]
