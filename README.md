@@ -85,6 +85,10 @@ An interface designed for SIT(Siddaganga Institute of Technology) Students to en
 A mario game built using Java
 **Programming Language:** Java
 
+### world-map
+A basic non interactive version of world map without any updates. it just shows the names of each and every place present in the world along with the roads. Planning to show even metro systems in the upcoming steps
+**Tech:** HTML,CSS,Javascript
+
 ---
 
 ## 🔬 Research Experience
