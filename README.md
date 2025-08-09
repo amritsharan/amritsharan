@@ -39,6 +39,8 @@ CGPA: 9.50 / 10
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  **Beginner:**
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
 
 - **BackEnd:**  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
@@ -70,6 +72,18 @@ CGPA: 9.50 / 10
 A frontend app providing environmental suggestions using interactive charts and report export.  
 **Tech:** HTML, CSS, JavaScript  
 **Libraries:** Chart.js, jsPDF  
+
+### My Portfolio
+A website to indicate my identity in the community of developers.
+**Tech:**  React, css
+
+### Contineo-Login-portal
+An interface designed for SIT(Siddaganga Institute of Technology) Students to enter username and password such that contineo website will be opened for SIT(Siddaganga Institute of Technology) students
+**Tech or Programming Language:** Only Java
+
+### Mario project
+A mario game built using Java
+**Programming Language:** Java
 
 ---
 
