@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Amrit S R**, a passionate 2nd-year Computer Science Engineering student at Siddaganga Institute of Technology, Tumkur.
+I’m **Amrit S R**, a passionate 3rd-year Computer Science Engineering student at Siddaganga Institute of Technology, Tumkur.
 
 ---
 
