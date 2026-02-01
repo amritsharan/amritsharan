@@ -54,15 +54,14 @@ CGPA: 9.50 / 10
 
 - **Tools:**  
   ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- **Subjects:** Data Structures and Algorithms, Operating Systems, Computer Architecture, AI (Basics), Data Science (Basics) , Machine Learning(Learning stage) 
+- **Subjects:** Data Structures and Algorithms, Operating Systems, Computer Architecture, AI , Data Science (Basics) , Machine Learning 
 
 ---
 
 ## 🏆 Certifications
 
 - Problem Solving — CodeChef  
-- Python for Data Science — IBM  
-- Python Practice Test — Udemy  
+- Python for Data Science — IBM   
 
 ---
 
@@ -81,33 +80,11 @@ A website to indicate my identity in the community of developers.
 An interface designed for SIT(Siddaganga Institute of Technology) Students to enter username and password such that contineo website will be opened for SIT(Siddaganga Institute of Technology) students
 **Tech or Programming Language:** Only Java
 
-### Mario project
-A mario game built using Java
-**Programming Language:** Java
+
 
 ### world-map
 A basic non interactive version of world map without any updates. it just shows the names of each and every place present in the world along with the roads. Planning to show even metro systems in the upcoming steps
 **Tech:** HTML,CSS,Javascript
-
----
-
-## 🔬 Research Experience
-
-- **Odigbo Metaheuristic for Task Scheduling in Cloud Computing**  
-  Under guidance of Dr. Bhargavi K, Dept. of CSE, SIT  
-  Focus: Task scheduling optimization in cloud workloads  
-
-- **AI-based Wound Chemical Healing Suggestion System** (In Progress)  
-  Collaborative project with Abhishek Hiremath  
-  Under guidance of Dr. Bhargavi K (CSE) and Dr. G Nagaraju (Chemistry), SIT  
-  Building an AI model to recommend chemical treatments for wound healing. Report completed, implementation pending.  
-
----
-
-## 🎖 Achievements
-
-- Recipient of Junior Ramanujan of the Year 2016  
-- College Topper in Intermediate with 97%  
 
 ---
 
