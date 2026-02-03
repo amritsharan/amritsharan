@@ -83,12 +83,6 @@ An interface designed for SIT(Siddaganga Institute of Technology) Students to en
 
 ---
 
-### GitHub Stats
-
-![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritsharan&show_icons=true&theme=radical)
-
----
-
 Feel free to ask me about programming, algorithms, AI basics, or frontend development!  
 I’m always open to collaborating on exciting projects and learning new skills.
 
