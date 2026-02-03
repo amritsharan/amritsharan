@@ -20,8 +20,9 @@ I’m **Amrit S R**, a passionate 3rd-year Computer Science Engineering student 
 
 **Siddaganga Institute of Technology, Tumkur**  
 Bachelor of Engineering in Computer Science and Engineering  
-Finished  2nd Year (4th Semester)  
-CGPA: 9.50 / 10
+Finished  2nd Year 
+Currently in 6th semester
+CGPA: 9.54 / 10
 
 ---
 
@@ -79,12 +80,6 @@ A website to indicate my identity in the community of developers.
 ### Contineo-Login-portal
 An interface designed for SIT(Siddaganga Institute of Technology) Students to enter username and password such that contineo website will be opened for SIT(Siddaganga Institute of Technology) students
 **Tech or Programming Language:** Only Java
-
-
-
-### world-map
-A basic non interactive version of world map without any updates. it just shows the names of each and every place present in the world along with the roads. Planning to show even metro systems in the upcoming steps
-**Tech:** HTML,CSS,Javascript
 
 ---
 
