@@ -6,11 +6,10 @@ I’m **Amrit S R**, a passionate 3rd-year Computer Science Engineering student 
 
 ## 📫 Contact Me
 
-- Email: amritsr2005@gmail.com  ,  amritsr.1si23ci005@gmail.com
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritsr2005@gmail.com)
 - Phone: 8861314053  
-- LinkedIn: [https://www.linkedin.com/in/amrit-s-r-17a515309/]  
-- LeetCode: [https://leetcode.com/profile/]
-- LeetCode Username : [https://leetcode.com/u/ASR2005/]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-s-r-17a515309/) 
+- LeetCode : [https://leetcode.com/u/ASR2005/]
 - CodeChef: [https://www.codechef.com/users/amritsr2005]  
 - Codeforces: [https://codeforces.com/profile/AMRITSR2005]  
 
